@@ -1,8 +1,6 @@
-# projetogit
-repository git
+{
 
-MEu primeiro teste,
-sdasadsadsad
-Verificação de teste !
+"editor.fontfamily": 
 
-dadasd
+
+}
